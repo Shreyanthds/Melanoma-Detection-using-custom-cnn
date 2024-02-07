@@ -31,7 +31,7 @@ compared to other diseases.
 
 The congruence between training and validation accuracy suggests a well-fitted model.
 The balance between training and validation loss indicates a well-fitted model.
-An encouraging validation accuracy of 0.87 underscores the model's proficiency in classifying images with an 87% success rate.
+An encouraging validation accuracy of 0.86 underscores the model's proficiency in classifying images with an 86% success rate.
 
 ### Technologies Used
 
