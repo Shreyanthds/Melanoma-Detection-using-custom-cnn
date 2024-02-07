@@ -36,10 +36,18 @@ An encouraging validation accuracy of 0.86 underscores the model's proficiency i
 ### Technologies Used
 
 Python
+
 TensorFlow
+
 Keras
+
 Augmentor
+
 Matplotlib
+
 NumPy
+
 Contact
+
+
 Created by Shreyanth H G - feel free to contact me!
